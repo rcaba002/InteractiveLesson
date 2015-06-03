@@ -1,0 +1,6 @@
+C:\Work\Claim\InteractiveLesson\bin\Debug\InteractiveLesson.exe.config
+C:\Work\Claim\InteractiveLesson\bin\Debug\InteractiveLesson.exe
+C:\Work\Claim\InteractiveLesson\bin\Debug\InteractiveLesson.pdb
+C:\Work\Claim\InteractiveLesson\obj\Debug\InteractiveLesson.csprojResolveAssemblyReference.cache
+C:\Work\Claim\InteractiveLesson\obj\Debug\InteractiveLesson.exe
+C:\Work\Claim\InteractiveLesson\obj\Debug\InteractiveLesson.pdb
